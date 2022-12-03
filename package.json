@@ -1,0 +1,19 @@
+{
+  "name": "test-bundle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts":{
+    "build":"vite build -c vite.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@iconify-json/prime": "^1.1.4",
+    "@vue/compiler-sfc": "^3.2.45",
+    "unplugin-icons": "^0.14.14",
+    "vite": "3",
+    "vue": "^3.2.45"
+  }
+}
